@@ -1,6 +1,6 @@
 {
   "name": "react-app-toturial",
-  "homepage": "http://cindynguyen55.github.io/Tic-tac-toe_RA/",
+  "homepage": "http://cindynguyen55.github.io/Tic-tac-toe_RA",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,6 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "yarn": "^1.22.19"
   },
   "scripts": {
     "start": "react-scripts start",
